@@ -14,7 +14,7 @@
 <span align="center">
 
 - First Place Winner of [Calgary Hacks 2023](https://calgaryhacks.ca): [UniQuest](https://devpost.com/software/uniquest-7j2pn6)
-- Second Place Winner of [Calgary Hacks 2022](https://calgaryhacks.ca): [DynaTransit](https://devpost.com/software/dynatransit)
+- First Place Winner of [Calgary Hacks 2022](https://calgaryhacks.ca): [DynaTransit](https://devpost.com/software/dynatransit)
 - Second Place Winner of [Hack the Change](https://www.codethechangeyyc.ca): [Pass the Glass](https://devpost.com/software/pass-the-glass)
 - First Place Winner of [Youth Central Hackathon](https://youthcentral.com/programs/mayoryouthcouncil/#:~:text=Congratulations%20to%205-D%20Penta,solutions%20to%20issues%20facing%20Calgarians): [AdmissionPal](https://github.com/AllanKoder/AdmissionPal)
 - First Place Winner of [Waterloo Winter GI Jam](https://uwaterloo.ca/games-institute/uwgame-jam/game-jam-showcase): [Memories of Her](https://github.com/AllanKoder/MemoriesOfHerGame)
