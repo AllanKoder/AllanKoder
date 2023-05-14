@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **allankong176@gmail.com**
 
-<br>
 <h1 align="center">Hackathon Wins:</h1>
 <span align="center">
 
@@ -20,7 +19,6 @@
 - First Place Winner of [Youth Central Hackathon](https://youthcentral.com/programs/mayoryouthcouncil/#:~:text=Congratulations%20to%205-D%20Penta,solutions%20to%20issues%20facing%20Calgarians): [AdmissionPal](https://github.com/AllanKoder/AdmissionPal)
 - First Place Winner of [Waterloo Winter GI Jam](https://uwaterloo.ca/games-institute/uwgame-jam/game-jam-showcase): [Memories of Her](https://github.com/AllanKoder/MemoriesOfHerGame)
 </span>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
