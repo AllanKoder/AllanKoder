@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Allan Kong</h1>
+<h1 align="center">I'm Allan Kong</h1>
 <h3 align="center">A passionate full-stack developer and student, always learning something!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
