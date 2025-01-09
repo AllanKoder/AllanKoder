@@ -3,7 +3,7 @@
 
 Thanks for stopping onto my profile. I really hope this was not by mistake, if so, leave this page, bugger off. Okay, now that the real people are here: I will say some software things. I am _passionate_, _adaptable_, and _very humble_ if I dare say so. Not only that, but I deliever _massive value_. 
 
-If you want to read software and life advice by a pleb, check out these [medium articles](https://medium.com/@allankong)! ❤
+If you want to read software and life advice by a pleb, check out these [medium articles](https://medium.com/@allankong)! ❤💀
 
 <p align="left">
 <h3 align="left">I don't use this platform:</h3>
