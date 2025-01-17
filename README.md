@@ -8,7 +8,3 @@ If you want to read software and life advice by a pleb, check out these [medium 
 <p align="left">
 <a href="https://www.linkedin.com/in/allankoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allankoder/" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/SadBread.png" alt="TryHackMe">
-</p>
