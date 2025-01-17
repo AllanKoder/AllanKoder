@@ -6,7 +6,6 @@ Thanks for stopping onto my profile. I really hope this was not by mistake, if s
 If you want to read software and life advice by a pleb, check out these [medium articles](https://medium.com/@allankong)! ❤💀
 
 <p align="left">
-<h3 align="left">I don't use this platform:</h3>
 <a href="https://www.linkedin.com/in/allankoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allankoder/" height="30" width="40" /></a>
 </p>
 
